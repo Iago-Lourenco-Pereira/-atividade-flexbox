@@ -1,0 +1,47 @@
+
+.box-item1{
+  background-color: #007bff;
+  color: white;
+  padding: 30px;
+  margin: 10px;
+  font-size: 24px;
+}
+
+.box-container {
+    background-color: #f0f0f0;
+    display: flex;
+    height: 200px; 
+    align-items: center;
+    justify-content: space-around; 
+    padding: 100px;
+ }
+
+ .box-item2{
+    background-color: purple;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    font-size: 24px;
+    
+}
+.box-item3{
+    background-color: rgb(128, 0, 0);
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    font-size: 24px;
+    
+}
+.box-item4{
+    background-color: rgb(0, 128, 32);
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    font-size: 24px;
+    
+}
+  
+  
+  
+ 
+
